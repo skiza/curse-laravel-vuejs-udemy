@@ -16,5 +16,28 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+#public/
+.deploy*/
+src/_drafts
